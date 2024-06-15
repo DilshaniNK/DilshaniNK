@@ -1,6 +1,13 @@
-<h1 align="center">Hi 👋, I'm Dilshani Nadeesha</h1>
+<head>
+  <meta charset="UTF-8">
+  </head>
+  <h2 data-text=" I am Dilshani Nadeesha">I am Dilshani Nadeesha...</h2>
+  body{
+    margi
+  
+  
 <h3 align="center">A passionate web developer from Sri Lanka</h3>
-
+<img align="center" src="https://images.lemonly.com/wp-content/uploads/2018/08/07150313/Homebase_Thumb_v01.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dilshanink&label=Profile%20views&color=0e75b6&style=flat" alt="dilshanink" /> </p>
 
 - 🌱 I’m currently learning **Java**
