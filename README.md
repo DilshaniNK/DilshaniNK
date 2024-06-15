@@ -3,11 +3,11 @@
 
   
   
-<h3 align="center">A passionate web developer from Sri Lanka</h3>
+<h3 align="center">A Computer Science Student from Sri Lanka</h3>
 <img align="right" alt="coding" width="400" src="https://images.lemonly.com/wp-content/uploads/2018/08/07150313/Homebase_Thumb_v01.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dilshanink&label=Profile%20views&color=0e75b6&style=flat" alt="dilshanink" /> </p>
 
-- 🌱 I’m currently learning **Java**
+- 🌱 I’m currently learning **Computer Science **
 
 - 📫 How to reach me **dilnadeesha1232001@gmail.com**
 
