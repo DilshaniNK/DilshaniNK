@@ -15,7 +15,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/dilshani-nadeesha-246445303" target="blank"><img align="center" src="https://github.com/Scar1109/skill-icons/blob/main/icons/LinkedIn.svg" alt="dilshani-nadeesha-246445303" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/dilshani-nadeesha" target="blank"><img align="center" src="https://github.com/Scar1109/skill-icons/blob/main/icons/LinkedIn.svg" alt="dilshani-nadeesha" height="30" width="40" /></a>
 <a href="https://fb.com/dilshani2001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="dilshani2001" height="30" width="40" /></a>
 </p>
 
